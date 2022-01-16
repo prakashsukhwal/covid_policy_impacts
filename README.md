@@ -14,7 +14,7 @@ To run the code, it is required to have installed:
 All code were run on the following hardware:
 - ThinkPad (lenovo) 
   - Operating System: Windows 10 (64-bit)
-  - Processor:20 GB
+  - Processor: 20 GB
 
 ## Inquiries
 
