@@ -1,2 +1,4 @@
 # covid_policy_impacts
-This repository contains data and code for the following paper published at PNAS:  Persson, J., Parie, J. F., &amp; Feuerriegel, S. (2021). Monitoring the COVID-19 epidemic with nationwide telecommunication data. Proceedings of the National Academy of Sciences, 118(26).  Code: contains all code for pre-processing the raw data, merging data for analysis, statistical analysis presented in the main paper and supplementary information, and generating figures and tables. Data: contains the pre-processed data and the merged data used for analysis. Links are provided for downloading the raw data.
+# Code: contains all code for pre-processing the raw data, merging data for analysis, statistical analyse and figures presented in the main paper and SI.
+# Data: contains the pre-processed data and the merged data used for analysis. 
+# Read the ReadMe file for more information on downloading the raw data.
