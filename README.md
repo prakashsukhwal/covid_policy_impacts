@@ -1,4 +1,4 @@
-# covid_policy_impacts
+# COVID19 policy impacts
 - **Code**: contains all code for pre-processing the raw data, merging data for analysis, statistical analyse and figures presented in the main paper and SI.
 - Additional packages needed can be installed per standard procedure for R.
 - **Data**: contains the pre-processed data and the merged data used for analysis. 
